@@ -27,7 +27,8 @@ How do you run code in Visual Studio Code?
 
 7) Now Open the vs code and open new terminal
 
-8) Write in termial to install all packages of libraries: --
+8) Write in termial to install all packages of libraries :
+   
     pip install -r requirements.txt
 
 Now Ready!! to run the program ..

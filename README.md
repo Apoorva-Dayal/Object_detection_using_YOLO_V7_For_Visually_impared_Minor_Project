@@ -1,0 +1,2 @@
+# Object_detection_using_YOLO_V7_For_Visually_impared_Minor_Project
+As Me and my teammate PIYUSH is working on Minor Project . Our Main project Title is " Object Detection Using YOLO V7 for Visually Impaired ". In this Project Our main work is to create as an application which will speak out 🗣️🗣️the detected Object . It will detect with the live camera access as well as in the image format.        

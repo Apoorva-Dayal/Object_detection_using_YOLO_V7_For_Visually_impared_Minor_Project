@@ -3,14 +3,22 @@ Me and my teammate PIYUSH are working on a minor project. Our project title is "
 
 How do you run code in Visual Studio Code?
 
+NOTE :: You have to download files and try to make two folder :
+
+   (a) mpg123-1.32.3-x86-64 : It is used for the sound. 
+   
+   (b) Object Detection  : It is used for the code.
+
+
 1) Download the file other than 
 " This file is for mpg123 " in zip format.
 and the 
-" This file is for mpg123 " make another folder and try to install with the name of the folder "mpg123-1.32.3-x86-64 "
+" This file is for mpg123" Make another folder and try to install with the name of the folder "mpg123-1.32.3-x86-64"
 
-2) Unzip the file and try to open in vs code.
+2) Unzip the file other than "
+This file is for mpg123" and try to open in vs code.
 
-3) Open the Edit the system Environment variable from settings of your PC
+3) Open the Edit the system Environment variable from settings of your PC for "mpg123-1.32.3-x86-64"
 
 4) Open Environment Variables
    

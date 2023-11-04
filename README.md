@@ -10,12 +10,19 @@ How do you run code in Visual Studio Code?
 3) Open the Edit the system Environment variable from settings of your PC
 
 4) Open Environment Variables
+   
+   
    <img width="301" alt="image" src="https://github.com/Apoorva-Dayal/Object_detection_using_YOLO_V7_For_Visually_impared_Minor_Project/assets/76716477/701ab613-b418-40f9-bcdb-e98e1e2c2265">
 
-5) Click on Path 
+
+5) Click on Path
+   
    <img width="439" alt="image" src="https://github.com/Apoorva-Dayal/Object_detection_using_YOLO_V7_For_Visually_impared_Minor_Project/assets/76716477/e0e75402-5ce5-499b-816c-26251d28e32f">
 
-6) Add mpg123 file into it
+
+6) Add mpg123 file from the system and copy it and paste it to the path.
+   
+   
    <img width="374" alt="image" src="https://github.com/Apoorva-Dayal/Object_detection_using_YOLO_V7_For_Visually_impared_Minor_Project/assets/76716477/1dcaf5cd-f119-4d48-8319-e3968cda749e">
 
 7) Now Open the vs code and open new terminal

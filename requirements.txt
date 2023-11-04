@@ -1,0 +1,7 @@
+kivy
+numpy
+wandb
+opencv-python
+gTTS
+mpg123
+mpyg321 

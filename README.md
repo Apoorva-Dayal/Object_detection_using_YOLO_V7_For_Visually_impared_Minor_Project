@@ -3,7 +3,10 @@ Me and my teammate PIYUSH are working on a minor project. Our project title is "
 
 How do you run code in Visual Studio Code?
 
-1) Download the file in zip format.
+1) Download the file other than 
+" This file is for mpg123 " in zip format.
+and the 
+" This file is for mpg123 " make another folder and try to install with the name of the folder "mpg123-1.32.3-x86-64 "
 
 2) Unzip the file and try to open in vs code.
 
